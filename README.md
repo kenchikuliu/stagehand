@@ -1,4 +1,5 @@
 <div id="toc" align="center" style="margin-bottom: 0;">
+  <!-- Temporary branch protection probe PR. Remove after required checks are configured. -->
   <ul style="list-style: none; margin: 0; padding: 0;">
     <a href="https://stagehand.dev">
       <picture>
